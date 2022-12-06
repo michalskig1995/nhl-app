@@ -1,0 +1,478 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TeamPage renders the NHL TeamPage from NHL teams api for a given team 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1>
+        New Jersey Devils
+      </h1>
+      <ul>
+        <li>
+          Conference: 
+          Eastern
+        </li>
+        <li>
+          Division: 
+          Metropolitan
+        </li>
+        <li>
+          Roster
+          <ul>
+            <li>
+              <a
+                href="/players/8473541"
+              >
+                Jonathan Bernier
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8476292"
+              >
+                Ondrej Palat
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8478406"
+              >
+                Mackenzie Blackwood
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8482076"
+              >
+                Nico Daws
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8474090"
+              >
+                Brendan Smith
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8475193"
+              >
+                Tomas Tatar
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8475287"
+              >
+                Erik Haula
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8476462"
+              >
+                Dougie Hamilton
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8476923"
+              >
+                Damon Severson
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8477341"
+              >
+                Andreas Johnsson
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8477425"
+              >
+                Miles Wood
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8477435"
+              >
+                Ryan Graves
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8477970"
+              >
+                Vitek Vanecek
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8478399"
+              >
+                Jonas Siegenthaler
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8478507"
+              >
+                John Marino
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8479407"
+              >
+                Jesper Bratt
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8479414"
+              >
+                Nathan Bastian
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8479415"
+              >
+                Michael McLeod
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8480002"
+              >
+                Nico Hischier
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8480003"
+              >
+                Jesper Boqvist
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8480188"
+              >
+                Fabian Zetterlund
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8480860"
+              >
+                Kevin Bahl
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8481033"
+              >
+                Akira Schmid
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8481068"
+              >
+                Yegor Sharangovich
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8481559"
+              >
+                Jack Hughes
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8482110"
+              >
+                Dawson Mercer
+              </a>
+            </li>
+            <li>
+              <a
+                href="/players/8482125"
+              >
+                Alexander Holtz
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <h1>
+      New Jersey Devils
+    </h1>
+    <ul>
+      <li>
+        Conference: 
+        Eastern
+      </li>
+      <li>
+        Division: 
+        Metropolitan
+      </li>
+      <li>
+        Roster
+        <ul>
+          <li>
+            <a
+              href="/players/8473541"
+            >
+              Jonathan Bernier
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8476292"
+            >
+              Ondrej Palat
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8478406"
+            >
+              Mackenzie Blackwood
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8482076"
+            >
+              Nico Daws
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8474090"
+            >
+              Brendan Smith
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8475193"
+            >
+              Tomas Tatar
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8475287"
+            >
+              Erik Haula
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8476462"
+            >
+              Dougie Hamilton
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8476923"
+            >
+              Damon Severson
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8477341"
+            >
+              Andreas Johnsson
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8477425"
+            >
+              Miles Wood
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8477435"
+            >
+              Ryan Graves
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8477970"
+            >
+              Vitek Vanecek
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8478399"
+            >
+              Jonas Siegenthaler
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8478507"
+            >
+              John Marino
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8479407"
+            >
+              Jesper Bratt
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8479414"
+            >
+              Nathan Bastian
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8479415"
+            >
+              Michael McLeod
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8480002"
+            >
+              Nico Hischier
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8480003"
+            >
+              Jesper Boqvist
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8480188"
+            >
+              Fabian Zetterlund
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8480860"
+            >
+              Kevin Bahl
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8481033"
+            >
+              Akira Schmid
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8481068"
+            >
+              Yegor Sharangovich
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8481559"
+            >
+              Jack Hughes
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8482110"
+            >
+              Dawson Mercer
+            </a>
+          </li>
+          <li>
+            <a
+              href="/players/8482125"
+            >
+              Alexander Holtz
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

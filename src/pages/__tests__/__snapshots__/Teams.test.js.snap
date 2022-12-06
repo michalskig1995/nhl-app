@@ -1,0 +1,1203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teams renders the NHL team from api call 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1>
+        Teams
+      </h1>
+      <div>
+        Search
+      </div>
+      <input
+        name="search"
+        type="text"
+        value=""
+      />
+      <ul>
+        <li>
+          <a
+            href="/teams/1"
+            teamid="1"
+          >
+            New Jersey Devils
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/2"
+            teamid="2"
+          >
+            New York Islanders
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/3"
+            teamid="3"
+          >
+            New York Rangers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/4"
+            teamid="4"
+          >
+            Philadelphia Flyers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/5"
+            teamid="5"
+          >
+            Pittsburgh Penguins
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/6"
+            teamid="6"
+          >
+            Boston Bruins
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/7"
+            teamid="7"
+          >
+            Buffalo Sabres
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/8"
+            teamid="8"
+          >
+            Montréal Canadiens
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/9"
+            teamid="9"
+          >
+            Ottawa Senators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/10"
+            teamid="10"
+          >
+            Toronto Maple Leafs
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/12"
+            teamid="12"
+          >
+            Carolina Hurricanes
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/13"
+            teamid="13"
+          >
+            Florida Panthers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/14"
+            teamid="14"
+          >
+            Tampa Bay Lightning
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/15"
+            teamid="15"
+          >
+            Washington Capitals
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/16"
+            teamid="16"
+          >
+            Chicago Blackhawks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/17"
+            teamid="17"
+          >
+            Detroit Red Wings
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/18"
+            teamid="18"
+          >
+            Nashville Predators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/19"
+            teamid="19"
+          >
+            St. Louis Blues
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/20"
+            teamid="20"
+          >
+            Calgary Flames
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/21"
+            teamid="21"
+          >
+            Colorado Avalanche
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/22"
+            teamid="22"
+          >
+            Edmonton Oilers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/23"
+            teamid="23"
+          >
+            Vancouver Canucks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/24"
+            teamid="24"
+          >
+            Anaheim Ducks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/25"
+            teamid="25"
+          >
+            Dallas Stars
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/26"
+            teamid="26"
+          >
+            Los Angeles Kings
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/28"
+            teamid="28"
+          >
+            San Jose Sharks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/29"
+            teamid="29"
+          >
+            Columbus Blue Jackets
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/30"
+            teamid="30"
+          >
+            Minnesota Wild
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/52"
+            teamid="52"
+          >
+            Winnipeg Jets
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/53"
+            teamid="53"
+          >
+            Arizona Coyotes
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/54"
+            teamid="54"
+          >
+            Vegas Golden Knights
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/55"
+            teamid="55"
+          >
+            Seattle Kraken
+          </a>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <h1>
+      Teams
+    </h1>
+    <div>
+      Search
+    </div>
+    <input
+      name="search"
+      type="text"
+      value=""
+    />
+    <ul>
+      <li>
+        <a
+          href="/teams/1"
+          teamid="1"
+        >
+          New Jersey Devils
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/2"
+          teamid="2"
+        >
+          New York Islanders
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/3"
+          teamid="3"
+        >
+          New York Rangers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/4"
+          teamid="4"
+        >
+          Philadelphia Flyers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/5"
+          teamid="5"
+        >
+          Pittsburgh Penguins
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/6"
+          teamid="6"
+        >
+          Boston Bruins
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/7"
+          teamid="7"
+        >
+          Buffalo Sabres
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/8"
+          teamid="8"
+        >
+          Montréal Canadiens
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/9"
+          teamid="9"
+        >
+          Ottawa Senators
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/10"
+          teamid="10"
+        >
+          Toronto Maple Leafs
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/12"
+          teamid="12"
+        >
+          Carolina Hurricanes
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/13"
+          teamid="13"
+        >
+          Florida Panthers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/14"
+          teamid="14"
+        >
+          Tampa Bay Lightning
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/15"
+          teamid="15"
+        >
+          Washington Capitals
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/16"
+          teamid="16"
+        >
+          Chicago Blackhawks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/17"
+          teamid="17"
+        >
+          Detroit Red Wings
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/18"
+          teamid="18"
+        >
+          Nashville Predators
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/19"
+          teamid="19"
+        >
+          St. Louis Blues
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/20"
+          teamid="20"
+        >
+          Calgary Flames
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/21"
+          teamid="21"
+        >
+          Colorado Avalanche
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/22"
+          teamid="22"
+        >
+          Edmonton Oilers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/23"
+          teamid="23"
+        >
+          Vancouver Canucks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/24"
+          teamid="24"
+        >
+          Anaheim Ducks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/25"
+          teamid="25"
+        >
+          Dallas Stars
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/26"
+          teamid="26"
+        >
+          Los Angeles Kings
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/28"
+          teamid="28"
+        >
+          San Jose Sharks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/29"
+          teamid="29"
+        >
+          Columbus Blue Jackets
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/30"
+          teamid="30"
+        >
+          Minnesota Wild
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/52"
+          teamid="52"
+        >
+          Winnipeg Jets
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/53"
+          teamid="53"
+        >
+          Arizona Coyotes
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/54"
+          teamid="54"
+        >
+          Vegas Golden Knights
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/55"
+          teamid="55"
+        >
+          Seattle Kraken
+        </a>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Teams renders the NHL teams from NHL teams api call 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1>
+        Teams
+      </h1>
+      <div>
+        Search
+      </div>
+      <input
+        name="search"
+        type="text"
+        value=""
+      />
+      <ul>
+        <li>
+          <a
+            href="/teams/1"
+            teamid="1"
+          >
+            New Jersey Devils
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/2"
+            teamid="2"
+          >
+            New York Islanders
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/3"
+            teamid="3"
+          >
+            New York Rangers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/4"
+            teamid="4"
+          >
+            Philadelphia Flyers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/5"
+            teamid="5"
+          >
+            Pittsburgh Penguins
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/6"
+            teamid="6"
+          >
+            Boston Bruins
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/7"
+            teamid="7"
+          >
+            Buffalo Sabres
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/8"
+            teamid="8"
+          >
+            Montréal Canadiens
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/9"
+            teamid="9"
+          >
+            Ottawa Senators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/10"
+            teamid="10"
+          >
+            Toronto Maple Leafs
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/12"
+            teamid="12"
+          >
+            Carolina Hurricanes
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/13"
+            teamid="13"
+          >
+            Florida Panthers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/14"
+            teamid="14"
+          >
+            Tampa Bay Lightning
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/15"
+            teamid="15"
+          >
+            Washington Capitals
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/16"
+            teamid="16"
+          >
+            Chicago Blackhawks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/17"
+            teamid="17"
+          >
+            Detroit Red Wings
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/18"
+            teamid="18"
+          >
+            Nashville Predators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/19"
+            teamid="19"
+          >
+            St. Louis Blues
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/20"
+            teamid="20"
+          >
+            Calgary Flames
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/21"
+            teamid="21"
+          >
+            Colorado Avalanche
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/22"
+            teamid="22"
+          >
+            Edmonton Oilers
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/23"
+            teamid="23"
+          >
+            Vancouver Canucks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/24"
+            teamid="24"
+          >
+            Anaheim Ducks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/25"
+            teamid="25"
+          >
+            Dallas Stars
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/26"
+            teamid="26"
+          >
+            Los Angeles Kings
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/28"
+            teamid="28"
+          >
+            San Jose Sharks
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/29"
+            teamid="29"
+          >
+            Columbus Blue Jackets
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/30"
+            teamid="30"
+          >
+            Minnesota Wild
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/52"
+            teamid="52"
+          >
+            Winnipeg Jets
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/53"
+            teamid="53"
+          >
+            Arizona Coyotes
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/54"
+            teamid="54"
+          >
+            Vegas Golden Knights
+          </a>
+        </li>
+        <li>
+          <a
+            href="/teams/55"
+            teamid="55"
+          >
+            Seattle Kraken
+          </a>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <h1>
+      Teams
+    </h1>
+    <div>
+      Search
+    </div>
+    <input
+      name="search"
+      type="text"
+      value=""
+    />
+    <ul>
+      <li>
+        <a
+          href="/teams/1"
+          teamid="1"
+        >
+          New Jersey Devils
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/2"
+          teamid="2"
+        >
+          New York Islanders
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/3"
+          teamid="3"
+        >
+          New York Rangers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/4"
+          teamid="4"
+        >
+          Philadelphia Flyers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/5"
+          teamid="5"
+        >
+          Pittsburgh Penguins
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/6"
+          teamid="6"
+        >
+          Boston Bruins
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/7"
+          teamid="7"
+        >
+          Buffalo Sabres
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/8"
+          teamid="8"
+        >
+          Montréal Canadiens
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/9"
+          teamid="9"
+        >
+          Ottawa Senators
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/10"
+          teamid="10"
+        >
+          Toronto Maple Leafs
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/12"
+          teamid="12"
+        >
+          Carolina Hurricanes
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/13"
+          teamid="13"
+        >
+          Florida Panthers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/14"
+          teamid="14"
+        >
+          Tampa Bay Lightning
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/15"
+          teamid="15"
+        >
+          Washington Capitals
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/16"
+          teamid="16"
+        >
+          Chicago Blackhawks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/17"
+          teamid="17"
+        >
+          Detroit Red Wings
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/18"
+          teamid="18"
+        >
+          Nashville Predators
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/19"
+          teamid="19"
+        >
+          St. Louis Blues
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/20"
+          teamid="20"
+        >
+          Calgary Flames
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/21"
+          teamid="21"
+        >
+          Colorado Avalanche
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/22"
+          teamid="22"
+        >
+          Edmonton Oilers
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/23"
+          teamid="23"
+        >
+          Vancouver Canucks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/24"
+          teamid="24"
+        >
+          Anaheim Ducks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/25"
+          teamid="25"
+        >
+          Dallas Stars
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/26"
+          teamid="26"
+        >
+          Los Angeles Kings
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/28"
+          teamid="28"
+        >
+          San Jose Sharks
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/29"
+          teamid="29"
+        >
+          Columbus Blue Jackets
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/30"
+          teamid="30"
+        >
+          Minnesota Wild
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/52"
+          teamid="52"
+        >
+          Winnipeg Jets
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/53"
+          teamid="53"
+        >
+          Arizona Coyotes
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/54"
+          teamid="54"
+        >
+          Vegas Golden Knights
+        </a>
+      </li>
+      <li>
+        <a
+          href="/teams/55"
+          teamid="55"
+        >
+          Seattle Kraken
+        </a>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
